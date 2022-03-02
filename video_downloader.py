@@ -7,8 +7,6 @@ import tkinter as tk
 import webbrowser
 import re
 # pip install urllib
-# 外包   10
-# 讲师   送   20
 
 
 class APP:
